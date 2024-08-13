@@ -166,7 +166,7 @@ export const education = [
     school: "BDS International School",
     date: "Jul 2016 - May 2017",
     grade: "8.71 CGPA",
-    desc: "I complete my 10 education at BDS International Scool,Where i studied science with computer application",
+    desc: "I complete my 10th  education at BDS International Scool,Where i studied science with computer application",
   },
   {
     id: 1,
